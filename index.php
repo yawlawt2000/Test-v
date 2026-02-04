@@ -1,8 +1,8 @@
 <?php
 // --- CONFIGURATION ---
-$PANEL_URL = "http://your-server-ip:2053"; // Panel Port ပါထည့်ပါ
-$USERNAME  = "admin";
-$PASSWORD  = "your_password";
+$PANEL_URL = "157.230.246.36:1198/wFG4RQySEiWtLUG/xui/inbounds"; // Panel Port ပါထည့်ပါ
+$USERNAME  = "45nMOrB8wB";
+$PASSWORD  = "7DjIrvjWP2";
 
 // 1. Login Function
 function login($url, $user, $pass) {

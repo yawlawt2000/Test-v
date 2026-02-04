@@ -79,7 +79,7 @@ $inbounds = $data['obj'] ?? [];
         $net = $streamSettings['network'] ?? 'tcp';
         
         // Vless Link တည်ဆောက်ခြင်း (နမူနာ)
-        $vless_link = "vless://$client_id@YOUR_DOMAIN:{$item['port']}?type=$net&security=none#{$item['remark']}";
+        $vless_link = "vless://$client_id@157.230.246.36:{$item['port']}?type=$net&security=none#{$item['remark']}";
     ?>
 
     <div class="card">
